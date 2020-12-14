@@ -7,11 +7,13 @@
 ## Modelo Conceitual Atualizado
 
 > Coloque aqui a imagem do modelo conceitual atualizado em ER ou UML, como o exemplo a seguir:
-> ![ER Taxi](images/er-taxi.png)
+> <img src="https://github.com/Osedro/MC536-Projeto/blob/main/final/images/Modelo_Conceitual.png" width="75%" />
 
 ## Modelos Lógicos Atualizados
 
 > Coloque aqui os dois modelos lógicos dos bancos de dados relacionados aos modelos conceituais. O modelo lógico da etapa anterior pode ser copiado ou apresentado revisado. Para o modelo relacional, sugere-se o formato a seguir. Para outros modelos lógicos o formato é livre, pode ser adotado aqueles apresentados em sala.
+
+> <img src="https://github.com/Osedro/MC536-Projeto/blob/main/final/images/Modelo_Logico.png" width="75%" />
 
 > Exemplo de modelo lógico relacional
 ~~~
