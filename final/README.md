@@ -44,7 +44,10 @@ título da base | link | breve descrição
 
 nome do arquivo | link | breve descrição
 ----- | ----- | -----
-`<nome do arquivo>` | `<link para o arquivo>` | `<breve descrição do arquivo>`
+casos_por_estado.csv | [Casos Covid-19 por Estado](https://github.com/Osedro/MC536-Projeto/blob/main/final/data/csv/casos_por_estado.csv) | CSV com casos de Covid-19 por estado e região do Brasil: <br> Ex: _Norte, Nordeste, Sul, Sudeste, etc._
+covid19_por_municipio.csv | [Casos Covid-19 por Municipio](https://github.com/Osedro/MC536-Projeto/blob/main/final/data/csv/covid19_por_municipio.csv) | CSV com casos de Covid-19 por município.
+distribuicao_respiradores.csv | [Distribuicao de respiradores](https://github.com/Osedro/MC536-Projeto/blob/main/final/data/csv/distribuicao_respiradores.csv) | CSV com dados referente a: <br> _fornecedor, quantidade de respiradores e valores  por estado._
+
 
 > Os arquivos devem ser colocados na pasta `data`, em subpasta conforme seu papel (externo, interim, processado, raw). A diferença entre externo e raw é que o raw é em formato não adaptado para uso. A pasta `raw` é opcional, pois pode ser substituída pelo link para a base original da seção anterior.
 > Coloque arquivos relacionais (usualmente CSV), XML ou JSON que não estejam disponíveis online e sejam acessados pelo notebook.
