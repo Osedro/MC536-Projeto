@@ -15,12 +15,8 @@
 
 > <img src="https://github.com/Osedro/MC536-Projeto/blob/main/final/images/Modelo_Logico.png" width="75%" />
 
-> Exemplo de modelo lógico relacional
-~~~
-PESSOA(_Código_, Nome, Telefone)
-ARMÁRIO(_Código_, Tamanho, Ocupante)
-  Ocupante chave estrangeira -> PESSOA(Código)
-~~~
+> UF está sendo usado como chave 
+
 
 ## Programa de extração e conversão de dados atualizado
 
@@ -36,7 +32,9 @@ ARMÁRIO(_Código_, Tamanho, Ocupante)
 
 título da base | link | breve descrição
 ----- | ----- | -----
-`<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
+Brasil.io  | [Brasil.io/covid19](https://brasil.io/covid19/) | Compilação de boletins epidemiológicos diários de casos e óbitos confirmados por município.
+Dados.gov.br  | [Dados.gov.br](https://dados.gov.br/dataset/distribuicao-de-respiradores1) | Dados relacionados a gestão de recursos públicos, como gastos com equipamentos e insumos para saúde. Há dados voltados especificamente para covid.
+
 
 
 ## Arquivos de Dados
