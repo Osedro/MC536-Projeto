@@ -11,21 +11,22 @@ O projeto teve como objetivo utilizar Querys em SQL para analisar como a mortali
 
 Nossa Estrutura de Pastas é a seguinte: 
 ~~~
-├── binder  <- pasta do binder
+├── binder          <- pasta do binder
 │
-├── final   <- projeto finalizado
-│     ├── data           <- Arquivos CSV 
-│     ├── images       <- imagens do Projeto
-│     ├── notebook       <- Jupyter Notebook Utilizado para executar as consultas SQL
-│     ├── slides       <- Apresentação em pdf
+├── final           <- projeto finalizado
+│     ├── data      <- Arquivos CSV 
+│     ├── images    <- imagens do Projeto
+│     ├── notebook  <- Jupyter Notebook Utilizado para executar as consultas SQL
+│     ├── slides    <- Apresentação em pdf
 │     ├── src       <- Como Executar
 │     └── README.md <- Apresentação do Projeto
-├── stage02    <- etapa 02 do trabalho
-│
-├── stage03    <- etapa 03 do trabalho
-│
-└── stage03    <- etapa 04 do trabalho
+|
+├── stage02         <- etapa 02 do trabalho
+├── stage03         <- etapa 03 do trabalho
+└── stage03         <- etapa 04 do trabalho
 ~~~
+
+## [Para Visualizar o Projeto](https://github.com/Osedro/MC536-Projeto/tree/main/final)
 
 ## Querys utilizadas no Projeto
 Você pode visualizar as querys utilizadas nesse projeto em: [Querys do Projeto](https://github.com/Osedro/MC536-Projeto/blob/main/final/notebooks/verba_por_obito.ipynb)
