@@ -27,12 +27,6 @@ Nossa Estrutura de Pastas é a seguinte:
 ~~~
 
 ## [Para Visualizar o Projeto](https://github.com/Osedro/MC536-Projeto/tree/main/final)
-
-## Querys utilizadas no Projeto
-Você pode visualizar as querys utilizadas nesse projeto em: [Querys do Projeto](https://github.com/Osedro/MC536-Projeto/blob/main/final/notebooks/verba_por_obito.ipynb)
-
-## Como executar o Prjeto
-Caso queira testas as consultas por conta própria, [PASSO A PASSO](https://github.com/Osedro/MC536-Projeto/blob/main/final/src/README.md)
-
-## Resultados
-[Apresentação de Resultados](https://github.com/Osedro/MC536-Projeto/blob/main/final/slides/Covid-19%20no%20Brasil_%20An%C3%A1lise%20e%20rela%C3%A7%C3%A3o%20por%20regi%C3%A3o.pdf)
+## [Querys utilizadas no Projeto](https://github.com/Osedro/MC536-Projeto/blob/main/final/notebooks/verba_por_obito.ipynb)
+## [Como executar o Projeto](https://github.com/Osedro/MC536-Projeto/blob/main/final/src/README.md)
+## [Apresentação de Resultados](https://github.com/Osedro/MC536-Projeto/blob/main/final/slides/Covid-19%20no%20Brasil_%20An%C3%A1lise%20e%20rela%C3%A7%C3%A3o%20por%20regi%C3%A3o.pdf)
