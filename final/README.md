@@ -1,16 +1,13 @@
 # Apresentação Final
 
 ## Slides da Apresentação
-
 [Covid-19 no Brasil: Análise e relação por região](https://github.com/Osedro/MC536-Projeto/blob/main/final/slides/Covid-19%20no%20Brasil_%20An%C3%A1lise%20e%20rela%C3%A7%C3%A3o%20por%20regi%C3%A3o.pdf).
 
 ## Modelo Conceitual Atualizado
-
-> Coloque aqui a imagem do modelo conceitual atualizado em ER ou UML, como o exemplo a seguir:
-> <img src="https://github.com/Osedro/MC536-Projeto/blob/main/final/images/Modelo_Conceitual.png" width="75%" />
+<img src="https://github.com/Osedro/MC536-Projeto/blob/main/final/images/Modelo_Conceitual.png" width="75%" />
 
 ## Modelos Lógicos Atualizados
-> <img src="https://github.com/Osedro/MC536-Projeto/blob/main/final/images/Modelo_Logico.png" width="75%" />
+<img src="https://github.com/Osedro/MC536-Projeto/blob/main/final/images/Modelo_Logico.png" width="75%" />
 
 > UF está sendo usado como chave 
 
@@ -22,8 +19,6 @@ Você pode conferir as consultas SQL que estão no  [Query SQL do Projeto](https
 
 
 ## Bases de Dados
-> Elencar as bases de dados utilizadas no projeto. Trata-se de uma atualização daquelas apresentadas na Etapa 3.
-
 Título da Base | link | Breve descrição
 ----- | ----- | -----
 CoronaVirus Brasil  | [Covid.saude.gov.br/](https://covid.saude.gov.br/) | Fornece dados gerais (casos fatais) sobre a atuação do covid-19 no brasil, separados por região.
@@ -32,8 +27,6 @@ Portal Brasileiro de Dados Abertos  | [Dados.gov.br](https://dados.gov.br/datase
 
 
 ## Arquivos de Dados
-> Elencar os arquivos usados no projeto que estão disponíveis no Github do projeto (manter os da Etapa 3 e acrescentar os da Etapa 4).
-
 Nome do arquivo | link | Breve descrição
 ----- | ----- | -----
 casos_por_estado.csv | [Casos Covid-19 por Estado](https://github.com/Osedro/MC536-Projeto/blob/main/final/data/csv/casos_por_estado.csv) | CSV com casos de Covid-19 por estado e região do Brasil: <br> Ex: _Norte, Nordeste, Sul, Sudeste, etc._
